@@ -10,10 +10,10 @@ permalink:           /:title
 # Setup
 timezone:            New York # eg. Asia/Kathmandu
 locale:              en_us # eg. en_us
-name:				         Jeff Sun name
+name:				         Jeff Sun Signature
 title:               Jeff Sun
-tagline:             'tag tag tag'
-description:         'test test test'
+tagline:             'about'
+description:         'about'
 url:                 http://jeffsun.party
 rss:                 rss feed url
 baseurl:             '/'
