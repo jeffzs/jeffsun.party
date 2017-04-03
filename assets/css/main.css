@@ -2076,11 +2076,11 @@ body {
   margin-left: -10px;
   margin-right: -10px;
   width: 100%;
-  background: #fff;
-  padding: 1.5rem 0 0;
+  /* background: #fff;*/
+  /*padding: 1.5rem 0 0;*/
   position: relative;
   z-index: 400;
-  background-image: url(../images/jeff-photo.png);
+  /* background-image: url(../images/jeff-photo.png); */
 
 }
 
