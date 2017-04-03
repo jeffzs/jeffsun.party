@@ -2073,6 +2073,8 @@ body {
 }
 
 .section--about {
+  margin-top: 0;
+  margin-bottom: 0;
   margin-left: -10px;
   margin-right: -10px;
   width: 100%;
@@ -2083,7 +2085,7 @@ body {
   /* background-image: url(../images/jeff-photo.png); */
 }
 .section--about p {
-  margin-left: 10px;
+  padding-left: 15px;
 }
 
 .section--subscribe {
