@@ -1942,7 +1942,8 @@ body {
 }
 
 .blockGroup-list li:nth-child(1).block {
-  width: 100%;
+  /*width: 100%;*/
+  width: 50%;
 }
 
 .blockGroup-list li:nth-child(1).block .postArticle-image {
