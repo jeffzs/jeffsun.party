@@ -44,11 +44,12 @@ template {
 
 a {
   background: transparent;
+  text-decoration: none;
 }
 
 a:active,
 a:hover {
-  outline: 0;
+  outline: 1;
 }
 
 abbr[title] {
@@ -551,10 +552,10 @@ body {
   /*top: 132px;*/
   top: 50px;
   left: 50%;
-  /*-webkit-transform: translateX(-50%);
+  -webkit-transform: translateX(-50%);
       -ms-transform: translateX(-50%);
           transform: translateX(-50%);
-          */
+          
   z-index: 500;
   margin: 0;
   width: 276px;
