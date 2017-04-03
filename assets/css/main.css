@@ -2072,6 +2072,18 @@ body {
           filter: none;
 }
 
+.section--about {
+  margin-left: -10px;
+  margin-right: -10px;
+  width: 100%;
+  background: #fff;
+  padding: 1.5rem 0 0;
+  position: relative;
+  z-index: 400;
+  background-image: url(../images/jeff-photo.png);
+
+}
+
 .section--subscribe {
   width: 100%;
   background: #fff;
