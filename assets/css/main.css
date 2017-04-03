@@ -2164,6 +2164,10 @@ body {
   background-image: url(../images/kiva--black.svg);
 }
 
+.socialAccount--researchgate {
+  background-image: url(../images/researchgate--black.svg);
+}
+
 .socialAccount--rss {
   background-image: url(../images/rss--black.svg);
 }
