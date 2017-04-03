@@ -15,7 +15,7 @@ title:               Jeff Sun
 tagline:             'about'
 description:         'about'
 url:                 http://jeffsun.party
-rss:                 rss feed url
+rss:                 
 baseurl:             '/'
 baseurl_posts_img:   '/assets/images/posts/'
 baseurl_featured_img: '/assets/images/hero/'
