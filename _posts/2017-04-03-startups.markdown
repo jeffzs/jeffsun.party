@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "My Work"
+title:  "Start-Ups"
 date:   2017-04-03 01:00:00
 last_modified_at:  2017-04-03 01:00:00
-excerpt: "My Work"
-categories: professional portfolio
-tags:  work, science
+excerpt: "Start-Ups"
+categories: work
+tags:  work
 image:
   feature: steamboat.jpg
   topPosition: -50px
