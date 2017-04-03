@@ -7,11 +7,15 @@ excerpt: "My personal life"
 categories: personal life
 tags:  personal
 image:
-  feature: steamboat.jpg
+  feature: green_mountain.jpg
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-My work falls into several categories.
+#Family
+
+#Travel
+
+#Photos

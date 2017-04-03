@@ -1,17 +1,23 @@
 ---
 layout: post
-title:  "Research"
+title:  "Current Work"
 date:   2017-04-03 01:00:00
-last_modified_at:  2017-04-03 01:00:00
-excerpt: "Research"
+last_modified_at:  2017-04-03 12:00:00
+excerpt: "projects"
 categories: work
-tags:  
+tags:  work
 image:
-  feature: paper_example.jpg
+  feature: red_mountain.jpg
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-My work falls into several categories.
+#Start-Up
+
+
+#Research
+
+
+#Clinical

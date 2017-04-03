@@ -1,17 +1,22 @@
 ---
 layout: post
-title:  "Start-Ups"
+title:  "Research"
 date:   2017-04-03 01:00:00
-last_modified_at:  2017-04-03 01:00:00
-excerpt: "Start-Ups"
+last_modified_at:  2017-04-03 10:00:00
+excerpt: "Research"
 categories: work
-tags:  work
+tags:  
 image:
-  feature: steamboat.jpg
+  feature: dark_mountain.jpg
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-My work falls into several categories.
+#Peer-Reviewed Manuscripts
+
+
+#Abstracts
+
+
