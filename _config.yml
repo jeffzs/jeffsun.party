@@ -10,7 +10,7 @@ permalink:           /:title
 timezone:            New York # eg. Asia/Kathmandu
 locale:              en_us # eg. en_us
 name:				         Jeff Sun name
-title:               Jeff Sun title
+title:               About
 tagline:             'tag tag tag'
 description:         'test test test'
 url:                 http://jeffsun.party
@@ -32,7 +32,8 @@ author:
   linkedin:          zhifeisun
   dribbble:          
   pinterest:         
-  kiva:              
+  kiva:
+  researchgate:      Zhifei_Sun              
 
 fb_admins:           
 fb_appid:            
