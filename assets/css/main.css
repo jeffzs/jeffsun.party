@@ -551,9 +551,10 @@ body {
   /*top: 132px;*/
   top: 50px;
   left: 50%;
-  -webkit-transform: translateX(-50%);
+  /*-webkit-transform: translateX(-50%);
       -ms-transform: translateX(-50%);
           transform: translateX(-50%);
+          */
   z-index: 500;
   margin: 0;
   width: 276px;
@@ -1804,6 +1805,7 @@ body {
   letter-spacing: 0.04rem;
   color: #777777;
   text-transform: none;
+
 }
 
 @media (max-width: 767px) {
