@@ -10,7 +10,7 @@ permalink:           /:title
 timezone:            New York # eg. Asia/Kathmandu
 locale:              en_us # eg. en_us
 name:				         Jeff Sun name
-title:               About
+title:               Jeff Sun
 tagline:             'tag tag tag'
 description:         'test test test'
 url:                 http://jeffsun.party
