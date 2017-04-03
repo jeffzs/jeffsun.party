@@ -2081,7 +2081,9 @@ body {
   position: relative;
   z-index: 400;
   /* background-image: url(../images/jeff-photo.png); */
-
+}
+.section--about p {
+  margin-left: 10px;
 }
 
 .section--subscribe {
