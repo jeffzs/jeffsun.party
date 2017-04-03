@@ -28,15 +28,15 @@ layout: default
           <ul class="postMeta">
             <li class="postMeta-datetime">
               <time datetime="{{ page.date }}">
-                {{ page.date | date_to_string }}
+                Updated {{ page.date | date_to_string }}
               </time>
             </li>
             <li class="postMeta-author">
               By {{ site.author.name }}
             </li>
-            <li class="postMeta-tags">
+            <!--<li class="postMeta-tags">
               {{ page.categories }}
-            </li>
+            </li>-->
           </ul>
         </div>
       </div>
