@@ -1940,7 +1940,9 @@ body {
     width: 100%;
   }
 }
-/*
+/* mode 1: big featured post 100% width, followed by post 2 and 3 50% width;
+
+
 .blockGroup-list li:nth-child(1).block {
   width: 100%;
 }
@@ -1982,6 +1984,7 @@ body {
 }
 */
 
+/* mode 2, post 1 and 2 are 50% width
 .blockGroup-list li:nth-child(1).block,
 .blockGroup-list li:nth-child(2).block {
   width: 50%;
@@ -2004,8 +2007,9 @@ body {
   }
 }
 
+*/
 
-
+/* mode 3 = 25% width for all */
 
 
 .blockGroup-list li .postArticle-title {
