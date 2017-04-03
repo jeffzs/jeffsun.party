@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Research"
+title:  "Past Work"
 date:   2017-04-03 01:00:00
 last_modified_at:  2017-04-03 10:00:00
 excerpt: "Research"

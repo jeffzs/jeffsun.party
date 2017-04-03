@@ -7,7 +7,7 @@ excerpt: "My personal life"
 categories: personal life
 tags:  personal
 image:
-  feature: green_mountain.jpg
+  feature: green_mountain_2.jpg
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker

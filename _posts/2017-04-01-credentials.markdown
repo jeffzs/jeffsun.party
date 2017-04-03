@@ -7,7 +7,7 @@ excerpt: "My day job"
 categories: work
 tags:  work
 image:
-  feature: orange_mountain.jpg
+  feature: orange_mountain_2.jpg
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
