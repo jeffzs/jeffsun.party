@@ -13,10 +13,10 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
+# Research
+<div class="img img--fullContainer img--5xLeading" style="background-image: url('/assets/images/posts/rg_example.png');"></div>
+- Visit my my [Research Gate](http://researchgate.net/profile/Zhifei_sun) profile.
 
-#Peer-Reviewed Manuscripts
 
-
-#Abstracts
 
 
