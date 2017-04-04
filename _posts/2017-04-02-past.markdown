@@ -15,7 +15,7 @@ syntaxHighlighter: no
 ---
 ### Research
 
-<div class="img img--fullContainer img--5xLeading" style="background-image: url('/assets/images/posts/rg_example.png');"></div>
+<div class="img img--fullContainer img--10xLeading" style="background-image: url('/assets/images/posts/rg_example.png');"></div>
 - Visit my my [Research Gate](http://researchgate.net/profile/Zhifei_sun) profile.
 
 
