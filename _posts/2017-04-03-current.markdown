@@ -20,14 +20,13 @@ KēlaHealth is a start-up that I co-founded during my research fellowship at Duk
 - Website: [http://www.kelahealth.com](http://www.kelahealth.com)
 
 ### Research
-<div class="img img--fullContainer img--5xLeading" style="background-image: url('/assets/images/posts/crs_group_logo.png');"></div>
+![crs outcomes group logo](/assets/images/posts/crs_group_logo.png)
 I am a current active member of the Duke Colorectal Surgery Outcomes Group and also managed the group from 2014-2016. We specialize in conducting large scale comparative effectiveness studies, health services research, and epidemiological analyses using secondary datasets. 
 
 For and up to date listing of my previous publications, please see my [Research Gate](http://researchgate.net/profile/Zhifei_sun) profile.
 
 ### Clinical Work
 ![Duke Surgery](/assets/images/posts/logo-surgery.png)
-<div class="img img--fullContainer img--5xLeading" style="background-image: url('/assets/images/posts/logo-surgery.png');"></div>
 I am currently a General Surgery resident at Duke University Medical Center. I am due to complete my residency in 2020.
 
 - Website: [http://surgery.duke.edu](http://surgery.duke.edu)
