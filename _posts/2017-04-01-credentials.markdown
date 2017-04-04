@@ -31,10 +31,10 @@ Link to a current version of my CV: [Dropbox](https://www.dropbox.com/sh/bybn5gq
 | 2004-08    | B.A.			| Biochemistry  | Rice University | Houston, TX |
 
 ### Awards and Grants
-- `**$50K**` Duke Innovation Jam (2016)
-- `**$1K**` Conquer Cancer Foundation of ASCO Merit Award (2016)
-- `**$1K**` Duke Cancer Institute Research Award (2015)
+- **$50K** Duke Innovation Jam (2016)
+- **$1K** Conquer Cancer Foundation of ASCO Merit Award (2016)
+- **$1K** Duke Cancer Institute Research Award (2015)
 
 ### Licenses
-- `2012-present` North Carolina resident medical license
+- North Carolina resident medical license
 
