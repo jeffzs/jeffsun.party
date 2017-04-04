@@ -15,8 +15,7 @@ syntaxHighlighter: no
 ---
 ### Commercial Projects
 <div class="img img--fullContainer img--5xLeading" style="background-image: url('/assets/images/posts/kela_logo_darkerOrange.png');"></div>
-![kelahealth logo]()
-KelaHealth is a start-up that I co-founded during my research fellowship at Duke. We take patient factors and use machine-learning to accurately predict surgical complication risk at the point-of-care, then connect high risk patients to impactful interventions. Our goal is to improve surgical outcomes and reduce the financial and societal cost for patients undergoing surgery.
+KēlaHealth is a start-up that I co-founded during my research fellowship at Duke. We take patient factors and use machine-learning to accurately predict surgical complication risk at the point-of-care, then connect high risk patients to impactful interventions. Our goal is to improve surgical outcomes and reduce the financial and societal cost for patients undergoing surgery.
 
 - Website: [http://www.kelahealth.com](http://www.kelahealth.com)
 
@@ -27,6 +26,7 @@ I am a current active member of the Duke Colorectal Surgery Outcomes Group and a
 For and up to date listing of my previous publications, please see my [Research Gate](http://researchgate.net/profile/Zhifei_sun) profile.
 
 ### Clinical Work
+![Duke Surgery](/assets/images/posts/logo-surgery.png)
 <div class="img img--fullContainer img--5xLeading" style="background-image: url('/assets/images/posts/logo-surgery.png');"></div>
 I am currently a General Surgery resident at Duke University Medical Center. I am due to complete my residency in 2020.
 
