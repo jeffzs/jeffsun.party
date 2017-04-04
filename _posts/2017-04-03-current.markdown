@@ -13,11 +13,20 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
+# Commercial
+![kelahealth logo](kela_logo_darkerOrange.png)
+KelaHealth is a start-up that I co-founded during my research fellowship at Duke. We take patient factors and use machine-learning to accurately predict surgical complication risk at the point-of-care, then connect high risk patients to impactful interventions. Our goal is to improve surgical outcomes and reduce the financial and societal cost for patients undergoing surgery.
 
-#Start-Up
+- Website: [http://www.kelahealth.com](http://www.kelahealth.com)
 
+# Research
+![colorectal outcomes group](crs_group_logo.png)
+I am a current active member of the Duke Colorectal Surgery Outcomes Group and also managed the group from 2014-2016. We specialize in conducting large scale comparative effectiveness studies, health services research, and epidemiological analyses using secondary datasets. 
 
-#Research
+For and up to date listing of my previous publications, please see my [Research Gate](http://researchgate.net/profile/Zhifei_sun) profile.
 
+# Clinical
+![Duke Surgery](logo-surgery.png)
+I am currently a General Surgery resident at Duke University Medical Center. I am due to complete my residency in 2020.
 
-#Clinical
+- Website: [http://surgery.duke.edu](http://surgery.duke.edu)
