@@ -17,8 +17,8 @@ Link to a current version of my CV: [Dropbox](https://www.dropbox.com/sh/bybn5gq
 
 ### Positions
 - **Founder** KelaHealth, Inc (2016-present)
-- **Surgery Research Fellow** Duke University Medical Center (2014-2017)
-- **General Surgery Resident** Duke University Medical Center (2012-present)
+- **Surgery Research Fellow** Duke University (2014-2017)
+- **General Surgery Resident** Duke University (2012-present)
 - **Web Application Engineer** TestMasters, Inc (2004-2006)
 
 ### Education
