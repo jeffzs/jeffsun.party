@@ -13,9 +13,9 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
+### The Wife
+<div class="img img--fullContainer img--10xLeading" style="background-image: url('/assets/images/posts/wife.jpg');"></div>
 
-#Family
-
-#Travel
-
-#Photos
+### The Dogs
+Currently in exile at the in-law's...
+<div class="img img--fullContainer img--10xLeading" style="background-image: url('/assets/images/posts/IMG_2353.jpg');"></div>

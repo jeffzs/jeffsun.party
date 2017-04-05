@@ -436,7 +436,7 @@ hr {
   background-size: cover;
 }
 
-.img--fullContainer img {
+.img--fullContainer img--fullContainer {
   width: 100%;
 }
 
