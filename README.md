@@ -1,6 +1,6 @@
 # Jeff Sun
 
-Personal page for Jeff.
+Personal page for Jeff. The page is a modified version of Mickey (see below), a responseive theem for Jekyll.
 
 # Mickey
 
